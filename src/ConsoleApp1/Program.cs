@@ -9,6 +9,8 @@ namespace ConsoleApp1
     {
         public static void Main(string[] args)
         {
+            Console.WriteLine("Hola mundo y la ... {args}");
+            
         }
     }
 }
