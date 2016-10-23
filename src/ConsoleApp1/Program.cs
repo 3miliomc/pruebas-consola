@@ -1,4 +1,4 @@
-﻿using ConsoleApp1.Services;
+﻿
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -8,13 +8,7 @@ namespace ConsoleApp1
 {
     public class Program
     {
-        private ServicePersona _servicio;
-
-        public Program()
-        {
-            _servicio = new ServicePersona();
-            
-        }
+        
         public static void Main(string[] args)
         {
             
